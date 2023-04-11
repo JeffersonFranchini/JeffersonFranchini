@@ -1,7 +1,7 @@
 ##Olá! Eu sou o Jefferson Franchini
 
 - 🔭 Desenvolvedor Front-End - Html / Css / Javascript
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Estudante de Tecnologia
 
 <div align="center">
   <a href="https://github.com/jeffersonfranchini">
